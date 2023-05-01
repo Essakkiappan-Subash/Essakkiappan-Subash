@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Essakkiappan-Subash
 - 👀 I’m interested in Front-End-Development
-- 🌱 I’m currently learning JS, CSS
+- 🌱 I’m currently learning JS, React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
